@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 467 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 468 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -4767,6 +4767,18 @@ Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads, con
 - Official: no
 - Tags: seo, google-ads, meta-ads, marketing
 - Category: Finance, Commerce, and Business Apps
+
+### Orizn Visa
+
+Visa and entry requirements for 49,750 passport-destination pairs (199 passports, 250 destinations) in 15 languages; two tools work without a key, a free API key unlocks transit rules, comparisons and source URLs.
+
+- URL: https://github.com/MattJeff/orizn-mcp-server
+- Language: TypeScript
+- Provider: Orizn
+- Official: yes
+- Tags: visa, travel, immigration, remote
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://visa.orizn.app/mcp
 
 ### OutreachGenie
 

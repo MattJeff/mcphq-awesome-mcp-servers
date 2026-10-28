@@ -2503,6 +2503,24 @@
     "official": false
   },
   {
+    "name": "Orizn Visa",
+    "url": "https://github.com/MattJeff/orizn-mcp-server",
+    "description": "Visa and entry requirements for 49,750 passport-destination pairs (199 passports, 250 destinations) in 15 languages; two tools work without a key, a free API key unlocks transit rules, comparisons and source URLs.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "TypeScript",
+    "provider": "Orizn",
+    "tags": [
+      "visa",
+      "travel",
+      "immigration",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://visa.orizn.app/mcp"
+    }
+  },
+  {
     "name": "Google Maps MCP Server",
     "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps",
     "description": "Geocoding, directions, and place search via Google Maps.",
